@@ -12,8 +12,7 @@ public class BankServiceApplication {
 
 		System.out.println("app started 2");
 
-		System.out.println("App started 3");
-		System.out.println("App started 4");
+	
 
 		
 	}
