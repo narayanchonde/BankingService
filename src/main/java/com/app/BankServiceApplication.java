@@ -8,12 +8,12 @@ public class BankServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BankServiceApplication.class, args);
-		System.out.println("hello mydear");
+		System.out.println("app started 1");
 
-		System.out.println("hello mydear");
+		System.out.println("app started 2");
 
-		System.out.println("hello mydear");
-System.out.println("hello mydear");
+		System.out.println("App started 3");
+		System.out.println("App started 4");
 
 		
 	}
