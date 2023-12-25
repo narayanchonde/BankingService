@@ -9,6 +9,13 @@ public class BankServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BankServiceApplication.class, args);
 		System.out.println("hello mydear");
+
+		System.out.println("hello mydear");
+
+		System.out.println("hello mydear");
+System.out.println("hello mydear");
+
+		
 	}
 
 }
