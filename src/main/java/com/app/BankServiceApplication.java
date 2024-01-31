@@ -10,7 +10,7 @@ public class BankServiceApplication {
 		SpringApplication.run(BankServiceApplication.class, args);
 		System.out.println("app started 1");
 
-		System.out.println("app started 2");
+		
 
 	
 
